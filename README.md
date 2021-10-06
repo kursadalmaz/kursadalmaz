@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kursadalmaz
-- 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... Python,C,Sql,C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 👀 I’m interested in "Python" a=Right Now
+- print("a")
+- 🌱 I’m currently learning Python,C,Sql,C#
 
 
 <!---
