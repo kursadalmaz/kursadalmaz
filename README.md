@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kursadalmaz
-- 👀 I’m interested in "Python" a=Right Now
-- print("a")
-- 🌱 I’m currently learning Python,C,Sql,C#
+- HTML5/CSS
+- div 
+- 🌱 I’m currently learning HTML5/CSS/JAVASCRIPT
 
 
 <!---
