@@ -1,4 +1,4 @@
--     <h1>👋 Hi, I’m @kursadalmaz</h1>
+<h1>👋 Hi, I’m @kursadalmaz</h1>
 - HTML5/CSS
 - div 
 - 🌱 I’m currently learning HTML5/CSS/JAVASCRIPT
