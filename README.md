@@ -1,6 +1,5 @@
 -👋 Hi, I’m @kursadalmaz
 - HTML5/CSS
-- div 
 - 🌱 I’m currently learning HTML5/CSS/JAVASCRIPT
 
 
